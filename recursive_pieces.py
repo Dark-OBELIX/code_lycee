@@ -1,26 +1,13 @@
-possibilite = [500,200,100,50,20,10,5,2,1]
-total = 753
-solution=[]
+def rendu_pieces_recur(somme, S, pieces_rendues=[], ind=0):
+    if somme == 0:
+        return pieces_rendues
+    elif S[ind] <= somme:
+        pieces_rendues.append(S[ind])
+        return rendu_pieces_recur((somme-S[ind]), S, pieces_rendues, ind+1)
+    elif ind == len(S)-1:
+        return -1
+    else:
+        return rendu_pieces_recur(somme, S, pieces_rendues=[], ind=ind+1)
 
-def rendu_pieces_recur(somme,S,pieces_rendues,ind):
-	
-	# fin du programme
-	if somme == 0:
-		print (pieces_rendues)
-
-	elif S[ind] <= somme:
-		somme = somme - S[ind]
-		ind = ind + 1
-		print(somme)
-		return rendu_pieces_recur(somme,S,pieces_rendues,ind) # faut jouer avec les valeurs dans c'est parenthèses
-		
-	elif ind == len(S)-1:
-		print("elif 2")
-		ind = ind + 1
-		return ind 
-
-	else:
-		print("else")
-		print (pieces_rendues)
-
-rendu_pieces_recur(total,possibilite,solution,0)
+S = [500, 200, 100, 50, 20, 10, 5, 2, 1]
+print(rendu_pieces_recur(7, S))
