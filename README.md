@@ -1,6 +1,7 @@
 # code_lycee
 
 Code utilisé dans les exos de nsi au lycée:
+
   -> pile_sujet0
     -> Code utilisé dans le sujet 0 de nsi
     
@@ -13,3 +14,5 @@ Code utilisé dans les exos de nsi au lycée:
   -> moyenne.py
     -> programme du calcul de la moynne d'un tableau
     
+  -> distance_point.py
+    -> choix du plus cours chemin dans l'espace entre un point de référence et un tableau de point possible
