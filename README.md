@@ -17,5 +17,11 @@ Code utilisé dans les exos de nsi au lycée:
   -> distance_point.py
     -> choix du plus cours chemin dans l'espace entre un point de référence et un tableau de point possible
 
-  -> tri
+  -> tri.py
     -> travail sur un tableau en mettant les à au debut et les 1 à la fin
+    
+  -> multiplication.py
+    -> fonction de multiplication sans utilisation de la multiplication
+    
+ -> dichtomie.py
+    -> fonction à compléter
