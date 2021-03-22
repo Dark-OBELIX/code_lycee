@@ -28,3 +28,6 @@ Code utilisé dans les exos de nsi au lycée:
     
  -> dichtomie.py
     -> fonction à compléter
+    
+ -> eleve.py
+    -> retourne la meilleure note / le nombre d'élèves ayant la meilleure note / les élèves ayant la meilleure note
