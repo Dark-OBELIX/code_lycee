@@ -14,6 +14,9 @@ Code utilisé dans les exos de nsi au lycée:
   -> moyenne.py
     -> programme du calcul de la moynne d'un tableau
     
+  -> pascal.py
+    -> programme qui fait le triangle de pascal jusqu'à n de hauteur
+    
   -> distance_point.py
     -> choix du plus cours chemin dans l'espace entre un point de référence et un tableau de point possible
 
