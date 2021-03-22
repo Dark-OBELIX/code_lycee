@@ -8,6 +8,8 @@ def pascal(n):
         for i in range(1, k):
             Ck.append(C[k-1][i-1]+C[k-1][i])
 
+        print(Ck)
+        print(" ")
         Ck.append(1)
         C.append(Ck)
         
@@ -15,5 +17,5 @@ def pascal(n):
 
 ############################################################
 
-print(pascal(4))
+pascal(4)
 #[[1],[1, 1],[1, 2, 1],[1, 3, 3, 1],[1, 4, 6, 4, 1]]
