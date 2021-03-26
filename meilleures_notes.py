@@ -1,5 +1,5 @@
-listes_eleves = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
-liste_notes = [1, 40, 80, 60, 58, 80, 75, 80, 60, 24]
+listes_eleves = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"] # nom des eleves
+liste_notes = [1, 40, 80, 60, 58, 80, 75, 80, 60, 24] # notes des eleves
 
 def meileures_notes():
     note_maxi = 0
