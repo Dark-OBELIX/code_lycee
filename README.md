@@ -44,4 +44,5 @@ Code utilisé dans les exos de nsi au lycée:
  -> tri_insertion.py
     -> tri les nombres d'un liste par ordre croissant
    
-   
+ -> meileures_notes.py
+    -> renvoie la meilleur note d'une liste et les oms des eleves l'ayant eu
