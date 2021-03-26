@@ -21,13 +21,27 @@ Code utilisé dans les exos de nsi au lycée:
     -> choix du plus cours chemin dans l'espace entre un point de référence et un tableau de point possible
 
   -> tri.py
-    -> travail sur un tableau en mettant les à au debut et les 1 à la fin
+    -> travail sur un tableau en mettant les 0 au debut et les 1 à la fin
     
   -> multiplication.py
     -> fonction de multiplication sans utilisation de la multiplication
     
  -> dichtomie.py
-    -> fonction à compléter
+    -> utilise la dichotomie pour regarder si un nombre est pressent dans une liste
     
  -> eleve.py
     -> retourne la meilleure note / le nombre d'élèves ayant la meilleure note / les élèves ayant la meilleure note
+    
+ -> bianaire.py
+    -> converi un nombre binaire en nombre entier
+    
+ -> conv_bin.py
+    -> converti un nombre entier en bianaire
+    
+ -> moyenne_coef.py
+    -> calcul une moyenne à partir de note coefficienté
+ 
+ -> tri_insertion.py
+    -> tri les nombres d'un liste par ordre croissant
+   
+   
