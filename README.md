@@ -36,7 +36,7 @@ Code utilisé dans les exos de nsi au lycée:
     -> retourne la meilleure note / le nombre d'élèves ayant la meilleure note / les élèves ayant la meilleure note
     
  -> bianaire.py
-    -> converi un nombre binaire en nombre entier
+    -> converti un nombre binaire en nombre entier
     
  -> conv_bin.py
     -> converti un nombre entier en bianaire
@@ -49,3 +49,5 @@ Code utilisé dans les exos de nsi au lycée:
    
  -> meileures_notes.py
     -> renvoie la meilleur note d'une liste et les oms des eleves l'ayant eu
+ -> fibonnaci.py
+    -> calcul n fois une suite grâce à la méthode de fibonnaci (le terme à trouver et la somme des deux précédents)
