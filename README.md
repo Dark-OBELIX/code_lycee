@@ -1,8 +1,11 @@
 # code_lycee
 
+-> math.py
+  -> code exercice de math
+
 Code utilisé dans les exos de nsi au lycée:
 
-  -> pile_sujet0
+  -> pile_sujet0.py
     -> Code utilisé dans le sujet 0 de nsi
     
   -> recherch_iter.py
