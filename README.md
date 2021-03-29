@@ -35,6 +35,9 @@ Code utilisé dans les exos de nsi au lycée:
  -> eleve.py
     -> retourne la meilleure note / le nombre d'élèves ayant la meilleure note / les élèves ayant la meilleure note
     
+ -> occurence.py
+    -> renvoie un dictionnaire avec l'occurence de chaque lettre (pour une phrase donnée)
+    
  -> bianaire.py
     -> converti un nombre binaire en nombre entier
     
