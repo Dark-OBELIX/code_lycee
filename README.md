@@ -49,5 +49,9 @@ Code utilisé dans les exos de nsi au lycée:
    
  -> meileures_notes.py
     -> renvoie la meilleur note d'une liste et les oms des eleves l'ayant eu
+
  -> fibonnaci.py
     -> calcul n fois une suite grâce à la méthode de fibonnaci (le terme à trouver et la somme des deux précédents)
+ 
+ -> tri_bulles.py
+    -> Utilise le tri à bulle, pour trier une liste T
