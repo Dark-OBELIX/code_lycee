@@ -57,4 +57,7 @@ Code utilisé dans les exos de nsi au lycée:
     -> calcul n fois une suite grâce à la méthode de fibonnaci (le terme à trouver et la somme des deux précédents)
  
  -> tri_bulles.py
-    -> Utilise le tri à bulle, pour trier une liste T
+    -> utilise le tri à bulle, pour trier une liste T
+    
+ -> fusion.py
+    -> renvoit la fusion de 2 listes (triées)
