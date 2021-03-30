@@ -1,6 +1,6 @@
 # code_lycee/NSI
 
-Catégorie NSI  : Tous les codes "épreuves pratiques" se trouvent ici !
+*Catégorie NSI  : Tous les codes "épreuves pratiques" se trouvent ici !*
 
   - **conv_bin.py**         : convertit un nombre décimal en nombre bianaire (sous forme de liste)
   
