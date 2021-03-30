@@ -2,6 +2,8 @@
 
 *Catégorie NSI  : Tous les codes "épreuves pratiques" se trouvent ici !*
 
+  - **adresseIP.py**        : POO sur les adresses IP (création d'objets, adresse réservée, etc.)
+
   - **conv_bin.py**         : convertit un nombre décimal en nombre bianaire (sous forme de liste)
   
   - **conv_bin2.py**        : convertit un nombre binaire en nombre décimal
