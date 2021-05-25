@@ -13,6 +13,8 @@
   - **fibonacci.py**        : calcule les premiers termes avec la méthode fibonnaci (départ u1 = 1 / u2 = 1)
   
   - **fusion.py**           : fusionne deux tableaux L1 et L2 trié en un seul (trié aussi)
+
+  - **longTotale.py**       : calcule la longueur totale de AB + BC + CD
   
   - **meilleures_notes.py** : renvoit, grâce à deux listes, la note maximale, le nombre d'élèves l'ayant et leurs "noms"
   
